@@ -1,0 +1,57 @@
+.App {
+  text-align: left;
+  background-color:#f4cda5;
+  color: whitesmoke;
+}
+
+.App-logo {
+  position:relative;
+  left:675px;
+  width:200px;
+  height:200px;
+}
+
+.App-header {
+  background-image: url("app.gif");
+  height: 50px;
+  padding: 300px;
+  color: black;
+  font-size:22px;
+  text-shadow: 3px 2px #4CAF50;
+}
+
+.App-title {
+  text-align: center;
+  font-size: 1.5em;
+  background-color:black;
+}
+
+.App-intro {
+  color:brown;
+  position:relative;
+  left:20px;
+  font-size: x-large;
+}
+.App-link {
+  position:relative;
+  left:0px;
+  height: 5px;
+  padding: 30px;
+}
+.Cas {
+  text-align: center;
+  font-size: 1.3em;
+  color:brown;
+}
+.title2 {
+  color:brown;
+  position:relative;
+  left:10px;
+}
+.Login {
+  color:brown;
+  position:relative;
+  left:20px;
+  font-size:18px;
+
+}

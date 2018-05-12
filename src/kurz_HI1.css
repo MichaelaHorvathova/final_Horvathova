@@ -1,0 +1,28 @@
+.kurz {
+    text-align: left;
+    background-color:palevioletred;
+    color: whitesmoke;
+    height: 250px;
+    padding: 300px;
+    position:relative;
+    top:-100px;
+}
+
+.kurz-intro {
+    color:white;
+    text-align:left;
+    font-size: x-large;
+
+}
+.App_fhi-logo {
+    position:relative;
+    left:50px;
+    top:-100px;
+    width:200px;
+    height:200px;
+}
+.picture {
+    position:relative;
+    top:-290px;
+    left:520px;
+}

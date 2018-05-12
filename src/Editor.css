@@ -1,0 +1,40 @@
+.editor {
+    position:relative;
+    left:330px;
+    top:-300px;
+    width: 500px;
+    margin: 0 auto;
+    color:black;
+    background-color:silver;
+    border: 1.5px solid whitesmoke;
+    padding: 20px;
+    font-size:20px;
+}
+.DraftEditor-root{
+    position:relative;
+    top:-10px;
+    background: whitesmoke;
+    border-radius: .3em;
+    padding: 1em;
+}
+.button{
+    position:relative;
+    left:75px;
+    top:-10px;
+    background: aliceblue;
+    color: black;
+    border: none;
+    padding: .7em;
+    cursor: pointer;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    border-radius: .2em;
+}
+
+button:hover{
+    background: #888;
+}
+
+
+
+
